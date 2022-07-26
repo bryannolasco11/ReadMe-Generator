@@ -67,7 +67,7 @@ const promptTitle = () => {
             type: 'input',
             name: 'credits',
             message: 'Who has contributed to this project?'
-        }
+        },
         {
             type: 'input',
             name: 'tests',
