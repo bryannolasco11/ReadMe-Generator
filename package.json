@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/bryannolasco11/ReadMe-Generator/issues"
   },
-  "homepage": "https://github.com/bryannolasco11/ReadMe-Generator#readme"
+  "homepage": "https://github.com/bryannolasco11/ReadMe-Generator#readme",
+  "devDependencies": {}
 }
