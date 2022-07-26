@@ -33,7 +33,7 @@ const generateMarkdown = require ('./utils/readme-template');
 const writeFile = require ('./utils/generateMarkdown');
 
 // This prompts the user for quetsions about title, description, installation, usage, contributions test instructions.
-const promptTitle = () => {
+const promptQuestions = () => {
     return inquirer.prompt([
         {
             type: 'input',
@@ -76,7 +76,7 @@ const promptTitle = () => {
     ]);
 };
 
-promptTitle()
+promptQuestions()
     .then((data=>{
         console.log(data);
         fs.writeFile("READMEGen.md", generateMarkdown(data), function(err){

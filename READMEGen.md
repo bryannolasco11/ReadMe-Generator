@@ -11,13 +11,13 @@
 
  ## Usage
 
- You just run
+ teaches you how to run
 
  ## Contributions
 
  Camille
 
  ## Instructions for Tests
- there aren't any
+ none
 
  
