@@ -59,7 +59,7 @@ ${data.description}
 * [Usage](#usage)
 * [Contributions](#contributions)
 * [Instructions for Tests](#instructions)
-* [Questions](#Questions)
+* [Questions](#questions)
 
 
 ${renderLicenseSection(data.license)}
@@ -76,7 +76,7 @@ ${data.usage}
 ## Contributions
 ${data.credits}
 
-## Instructions for Tests
+## Instructions
 ${data.tests}
  
 

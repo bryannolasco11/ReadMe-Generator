@@ -10,7 +10,7 @@ https://github.com/bryannolasco11/ReadMe-Generator
 
 This is a README.MD generator.  Using only the terminal, questions are asked of the user and when finished, a README file is created for their program.
 
-![alt text](./assets/images/Weather.png)
+![alt text](./assets/Images/Readme%20generator.png)
 
 ## Credits
 https://github.com/bryannolasco11/

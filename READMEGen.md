@@ -1,5 +1,6 @@
 
- # City-Weather-Forecaster
+# City Weather Forecaster
+
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Description
@@ -7,11 +8,10 @@ This is a weather dashboard.  It fetches data from a the server side API OpenWea
 
 ## Table of Contents:
 
-* [Installation](#installation) 
+* [Installation](#installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
 * [Instructions for Tests](#instructions)
-* [License](#license)
 * [Questions](#questions)
 
 
@@ -23,7 +23,7 @@ This is a weather dashboard.  It fetches data from a the server side API OpenWea
 
 
 ## Installation
-none
+There are no steps
 
 ## Usage
 The user will input a city and the current conditions and a five day forecast will be displayed.  Also, the dashboard will keep track of the the searches since they will be stored in local storage.  The last 9 searches will be displayed and the buttons will be clickable so that the user is able to get the conditions of those cities quickly.  Finally, the UV index will be accompanied by color to display if the conditions are favorable, moderate, or severe. 
@@ -31,8 +31,8 @@ The user will input a city and the current conditions and a five day forecast wi
 ## Contributions
 Bryan Nolasco
 
-## Instructions for Tests
-There are no current tests.
+## Instructions
+There are no tests
  
 
 
