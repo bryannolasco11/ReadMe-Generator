@@ -70,6 +70,16 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
+            name: 'github',
+            message: 'What is your GitHub name?'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your e-mail?'
+        },
+        {
+            type: 'input',
             name: 'tests',
             message: 'What are the test instructions?'
         },

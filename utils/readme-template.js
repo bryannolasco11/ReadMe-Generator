@@ -74,6 +74,11 @@ const generateMarkdown = (data) => {
  ## Instructions for Tests
  ${data.tests}
 
+ ## Questions
+
+ If you have any additional questions, I can be reached at:
+ [Github link] (https://github.com/${data.github})
+ ${data.email}
  `
  
  
