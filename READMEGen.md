@@ -1,39 +1,47 @@
 
- # Running
+ # running
+## [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]
 
- ## License
-        This project has a license under : MIT
+## Description
+I run
+
+## Table of Contents:
+
+* [Installation](#Installation) 
+* [Usage](#Usage)
+* [Contributions](#Contributions)
+* [Instructions for Tests](#Instructions)
+* [License](#License)
+* [Questions](#Questions)
+
+
+## License
+        This project has a license under : BSD
         
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
- [MIT](https://opensource.org/licenses/MIT)
+[BSD](https://opensource.org/licenses/BSD-3-Clause)
 
 
 
- ## Description
+## Installation
+none
 
- I run
+## Usage
+you run
 
+## Contributions
+Camille
 
- ## Installation
+##Instructions for Tests
+none
+ 
 
- none
-
- ## Usage
-
- teaches you how to run
-
- ## Contributions
-
- Camille
-
- ## Instructions for Tests
- none
 
  ## Questions
 
  If you have any additional questions, I can be reached at:
+ 
  bryan_nolasco@hotmail.com
  
- Github: (https://github.com/bryannolasco11)
- 
+ Github:
+ https://github.com/bryannolasco11
  

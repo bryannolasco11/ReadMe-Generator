@@ -61,7 +61,7 @@ const promptQuestions = () => {
         {
             type: 'input',
             name: 'usage',
-            message: 'Provide instructions and examples for use.'
+            message: 'Please provide instructions and examples for use of the program.'
         },
         {
             type: 'input',

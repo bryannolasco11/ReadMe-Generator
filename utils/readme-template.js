@@ -47,32 +47,39 @@ function renderLicenseSection(license) {
 const generateMarkdown = (data) => {
  return `
  # ${data.title}
+## ${renderLicenseBadge(data.license)}
 
- ${renderLicenseSection(data.license)}
- ${renderLicenseBadge(data.license)}
- ${renderLicenseLink(data.license)}
+## Description
+${data.description}
+
+## Table of Contents:
+
+* [Installation](#Installation) 
+* [Usage](#Usage)
+* [Contributions](#Contributions)
+* [Instructions for Tests](#Instructions)
+* [License](#License)
+* [Questions](#Questions)
+
+
+${renderLicenseSection(data.license)}
+${renderLicenseLink(data.license)}
 
 
 
- ## Description
+## Installation
+${data.installation}
 
- ${data.description}
+## Usage
+${data.usage}
 
+## Contributions
+${data.credits}
 
- ## Installation
+## Instructions for Tests
+${data.tests}
+ 
 
- ${data.installation}
-
- ## Usage
-
- ${data.usage}
-
- ## Contributions
-
- ${data.credits}
-
- ## Instructions for Tests
- ${data.tests}
 
  ## Questions
 
@@ -80,6 +87,7 @@ const generateMarkdown = (data) => {
  
  ${data.email}
  
+ Github:
  https://github.com/${data.github}
  `
  
