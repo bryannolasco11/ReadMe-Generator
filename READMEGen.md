@@ -1,37 +1,39 @@
 
- # running
+ # Running
 
  ## License
-        This project has a license under : Mozilla
+        This project has a license under : MIT
         
- [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]
- [MPL 2.0](https://opensource.org/licenses/MPL-2.0)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+ [MIT](https://opensource.org/licenses/MIT)
 
 
 
  ## Description
 
- 
+ I run
 
 
  ## Installation
 
- 
+ none
 
  ## Usage
 
- 
+ teaches you how to run
 
  ## Contributions
 
- 
+ Camille
 
  ## Instructions for Tests
- 
+ none
 
  ## Questions
 
  If you have any additional questions, I can be reached at:
- [Github link] (https://github.com/)
+ bryan_nolasco@hotmail.com
+ 
+ Github: (https://github.com/bryannolasco11)
  
  
