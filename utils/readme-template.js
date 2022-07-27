@@ -46,7 +46,8 @@ function renderLicenseSection(license) {
 // This is how the readme will look
 const generateMarkdown = (data) => {
  return `
- # ${data.title}
+# ${data.title}
+
 ## ${renderLicenseBadge(data.license)}
 
 ## Description
@@ -54,11 +55,10 @@ ${data.description}
 
 ## Table of Contents:
 
-* [Installation](#Installation) 
-* [Usage](#Usage)
-* [Contributions](#Contributions)
-* [Instructions for Tests](#Instructions)
-* [License](#License)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Instructions for Tests](#instructions)
 * [Questions](#Questions)
 
 
@@ -90,15 +90,6 @@ ${data.tests}
  Github:
  https://github.com/${data.github}
  `
- 
- 
 };
  
-   
-    
-      
-
-
-    
-
 module.exports = generateMarkdown;

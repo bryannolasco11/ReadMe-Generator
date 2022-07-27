@@ -1,24 +1,24 @@
 
- # running
-## [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]
+ # City-Weather-Forecaster
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Description
-I run
+This is a weather dashboard.  It fetches data from a the server side API OpenWeather.
 
 ## Table of Contents:
 
-* [Installation](#Installation) 
-* [Usage](#Usage)
-* [Contributions](#Contributions)
-* [Instructions for Tests](#Instructions)
-* [License](#License)
-* [Questions](#Questions)
+* [Installation](#installation) 
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Instructions for Tests](#instructions)
+* [License](#license)
+* [Questions](#questions)
 
 
 ## License
-        This project has a license under : BSD
+        This project has a license under : MIT
         
-[BSD](https://opensource.org/licenses/BSD-3-Clause)
+[MIT](https://opensource.org/licenses/MIT)
 
 
 
@@ -26,13 +26,13 @@ I run
 none
 
 ## Usage
-you run
+The user will input a city and the current conditions and a five day forecast will be displayed.  Also, the dashboard will keep track of the the searches since they will be stored in local storage.  The last 9 searches will be displayed and the buttons will be clickable so that the user is able to get the conditions of those cities quickly.  Finally, the UV index will be accompanied by color to display if the conditions are favorable, moderate, or severe. 
 
 ## Contributions
-Camille
+Bryan Nolasco
 
-##Instructions for Tests
-none
+## Instructions for Tests
+There are no current tests.
  
 
 
