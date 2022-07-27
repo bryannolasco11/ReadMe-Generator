@@ -73,7 +73,12 @@ const promptQuestions = () => {
             name: 'tests',
             message: 'What are the test instructions?'
         },
-        
+        {
+            type: 'checkbox',
+            name:"license",
+            message:"What type of license would you like to display?",
+            choices: ['BSD', 'MIT', 'Mozilla']
+        },
     ]);
 };
 

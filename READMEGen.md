@@ -1,21 +1,29 @@
 
  # running
 
+ ## License: ## License
+        This project has a license under : MIT
+        
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+ [MIT](https://opensource.org/licenses/MIT)
+
+
+
  ## Description
 
  I run
 
  ## Installation
 
- there aren't any
+ none
 
  ## Usage
 
- teaches you how to run
+ teaches running
 
  ## Contributions
 
- Camille
+ camille
 
  ## Instructions for Tests
  none
